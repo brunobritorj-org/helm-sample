@@ -1,0 +1,8 @@
+apiVersion: v1
+name: mynginx
+version: v1.0
+description: My NGINX webserver
+maintainers: 
+  - name: Bruno Silva
+    email: brunobritorj@outlook.com
+    url: https://github.com/brunobritorj
